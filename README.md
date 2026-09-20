@@ -6,7 +6,8 @@ Free and Open Source educational purposes exрl0it for legacy ROBLOX versions (2
 > THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES ONLY. IT IS NOT INTENDED TO HARM THE GAME ENVIRONMENT OR EXPLOIT CURRENT SYSTEMS. THE PROJECT ONLY SUPPORTS OLDER VERSIONS OF ROBLOX (2006–2012). IT WAS NOT DESIGNED TO BE USED ON OFFICIAL ROBLOX SERVERS; IT WAS CREATED EXCLUSIVELY FOR LOCAL TESTING ON A RUNNING LOCALHOST SERVER. THE PROJECT CREATOR IS NOT LIABLE FOR ANY RISKS OR CONSEQUENCES ARISING FROM THE USE OF THIS SOFTWARE.
 
 # How it works
-<img width="1335" height="729" alt="image" src="https://github.com/user-attachments/assets/f27ebbcb-afce-428c-9af2-cc788e83c098" />
+![Uploading image.png…]()
+
 
 1. Paste the **PID** of the target `RobloxApp` process.
 2. The program finds the target Menu ID that opens the script execution window.
