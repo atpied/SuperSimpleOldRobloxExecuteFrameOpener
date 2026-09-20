@@ -1,6 +1,6 @@
 # SuperSimpleOldRobloxExecuteFrameOpener
 
-Free and Open Source automation tool for legacy ROBLOX versions (2006-2012).
+Free and Open Source educational proposes exploit for legacy ROBLOX versions (2006-2012).
 
 > **DISCLAIMER:**
 > THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES ONLY. IT IS NOT INTENDED TO HARM THE GAME ENVIRONMENT OR EXPLOIT CURRENT SYSTEMS. THE PROJECT ONLY SUPPORTS OLDER VERSIONS OF ROBLOX (2006–2012). IT WAS NOT DESIGNED TO BE USED ON OFFICIAL ROBLOX SERVERS; IT WAS CREATED EXCLUSIVELY FOR LOCAL TESTING ON A RUNNING LOCALHOST SERVER. THE PROJECT CREATOR IS NOT LIABLE FOR ANY RISKS OR CONSEQUENCES ARISING FROM THE USE OF THIS SOFTWARE.
@@ -16,6 +16,7 @@ Free and Open Source automation tool for legacy ROBLOX versions (2006-2012).
 # Building
 
 You need **Visual Studio 2026** with **.NET 10.0** installed to build this project.
+First download the latest release in the Releases.
 
 1. Open `SuperSimpleOldRobloxExecuteFrameOpener.slnx` in Visual Studio.
 2. Wait until the solution loads completely.
