@@ -21,7 +21,7 @@ First download the latest release in the Releases.
 1. Open `SuperSimpleOldRobloxExecuteFrameOpener.slnx` in Visual Studio.
 2. Wait until the solution loads completely.
 3. Press `CTRL` + `SHIFT` + `B` to build the project.
-4. Navigate to `SuperSimpleOldRobloxExecuteFrameOpener/bin/Release/net10.0` to find your executable file!
+4. Navigate to `SuperSimpleOldRobloxExecuteFrameOpener/bin/Debug/net10.0` (or `SuperSimpleOldRobloxExecuteFrameOpener/bin/Release/net10.0`) to find your executable file!
 
 # Supported Versions
 
