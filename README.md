@@ -25,4 +25,7 @@ First download the latest release in the Releases.
 
 # Supported Versions
 
-Currently, SSOREFO supports only legacy Roblox versions from **0.3.xxx.0.0** to **0.66.xxx.0** (`RobloxApp` from the 2006-2012 era).
+Currently, SSOREFO supports only legacy Roblox versions from **0.3.xxx.0** to **0.66.xxx.0** (`RobloxApp` from the 2006-2012 era).
+
+# Current Issues
+- Recently, I found a loophole to close this vulnerability by modifying the game client. However, this problem does not apply to the original RobloxApp clients, but this technique can be used intentionally to protect against cheaters (for example, on private servers, etc.).
