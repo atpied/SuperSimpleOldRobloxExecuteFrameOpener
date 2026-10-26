@@ -27,5 +27,11 @@ First download the latest release in the Releases.
 
 Currently, SSOREFO supports only legacy Roblox versions from **0.3.xxx.0** to **0.66.xxx.0** (`RobloxApp` from the 2006-2012 era).
 
+# Old Roblox Launchers (Clients) Compatibility (100% Working, tested)
+
+- Original RobloxApp binaries (versions from **0.3.xxx.0** to **0.66.xxx.0**) | 100% Compatibility.
+- <img src="https://github.com/Novetus/Novetus_src/raw/refs/heads/master/Novetus/NovetusLauncher/NovetusIcon.ico" width="20" height="20"> [NOVETUS](https://bitl.itch.io/novetus) | All from 2006S to 2012M Clients are supported.
+- <img src="https://archive.org/download/roblox-sodikm-archive/sodikm_fabric.png" width="20" height="20"> [SODIKM](https://archive.org/details/roblox-sodikm-archive) | Only from 2010L to 2012E Clients are supported.
+
 # Current Issues
 - Recently, I found a loophole to close this vulnerability by modifying the game client. However, this problem does not apply to the original RobloxApp clients, but this technique can be used intentionally to protect against cheaters (for example, on private servers, etc.).
